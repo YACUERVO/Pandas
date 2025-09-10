@@ -1,0 +1,16 @@
+Producto,Categoria,Ventas,Precio_Unitario,Fecha
+Manzana,Fruta,120,1.2,2025-09-01
+Banana,Fruta,95,0.85,2025-09-02
+Naranja,Tropical,210,1.5,2025-09-03
+Naranja,Tropical,175,2.1,2025-09-04
+Papaya,Tropical,140,1.75,2025-09-05
+Banana,Fruta,200,0.95,2025-09-06
+Banana,Fruta,180,1.1,2025-09-07
+Papaya,Tropical,130,2.0,2025-09-08
+Naranja,Tropical,160,1.65,2025-09-09
+Naranja,Tropical,145,1.8,2025-09-10
+Banana,Fruta,220,1.05,2025-09-11
+Manzana,Fruta,155,1.25,2025-09-12
+Manzana,Fruta,190,1.4,2025-09-13
+Papaya,Tropical,170,1.9,2025-09-14
+Banana,Fruta,205,1.0,2025-09-15
